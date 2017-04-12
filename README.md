@@ -22,14 +22,7 @@ Once Docker is installed, you can dowload the image of this course and download 
 + MacOS & Linux: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
 + Windows: Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascienceub/deepub``
 + Once these steps have been done, you can check the installation by starting your web browser and introducing this  URL: ``http://localhost:8888``.
-+ Open a new Jupyter notebook and execute this instruction in a code cell: ``!git clone https://github.com/DeepLearningUB/DeepLearningMaster``.
-
-Next times, you can bring your local copy of the repository up to date:
-
-+ Windows: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v C:/your/course/folder:/notebooks datascienceub/deepub``.
-+ MacOS & Linux: In a terminal, go to your course folder and run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
-+ Start your web browser and introduce this  URL: ``http://localhost:8888``.
-+ Open a new Jupyter notebook and execute this instruction in a code cell: ``!git pull https://github.com/DeepLearningUB/DeepLearningMaster``.
++ Open a new Jupyter notebook and execute this instruction in a code cell: ``!git clone https://github.com/DeepLearningUB/DeepLearningGirona2017``.
 
 ## Note:
 
