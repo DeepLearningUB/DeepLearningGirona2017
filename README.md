@@ -1,6 +1,6 @@
 # DeepLearningGirona2017
 
-Xerrada a la Universitat de Girona sobre Deep Learning (19/05/2017), Jordi Vitrià.
+Xerrada teórico-pràctica a la Universitat de Girona sobre Deep Learning (19/05/2017), Jordi Vitrià.
 
 ## Software Installation
 
